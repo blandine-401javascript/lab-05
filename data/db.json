@@ -1,0 +1,39 @@
+
+
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "school",
+      "display name": "best school",
+      "description": "online"
+    },
+
+    {
+      "id": 2,
+      "name": "house",
+      "display name": "best house",
+      "description": "washington"
+    }
+  ],
+
+
+
+  "products": [
+    {
+      "id": 1,
+      "category": "school",
+      "name": "codefellows",
+      "display name": "yes",
+      "description": ""
+    },
+
+    {
+      "id": 2,
+      "category": "house",
+      "name": "seattle",
+      "display name": "yes",
+      "description": ""
+    }
+  ]
+}

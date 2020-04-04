@@ -1,0 +1,22 @@
+{
+  "name": "lab-05",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --verbose --coverage",
+    "start": "node index.js",
+    "lint": "eslint **/*.js",
+    "test-watch": "jest --watchAll --verbose --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blandine-401javascript/lab-05.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/blandine-401javascript/lab-05/issues"
+  },
+  "homepage": "https://github.com/blandine-401javascript/lab-05#readme"
+}
