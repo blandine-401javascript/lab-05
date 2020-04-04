@@ -15,7 +15,7 @@
 - [post path](http://localhost:3000/products)
 
 
-![alt text](./asset/lab06.png)
+![alt text](../asset/lab06.png)
 
 
 ### Setup
